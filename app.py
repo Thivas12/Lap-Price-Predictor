@@ -9,7 +9,7 @@ file1.close()
 
 # Apple,Ultrabook,8,Mac,1.37,0,1,226.98300468106115,Intel Core i5,0,128,Intel
 
-data = pd.read_csv("trained_data.csv")
+data = pd.read_csv("traineddata.csv")
 
 data['IPS'].unique()
 
